@@ -34,6 +34,11 @@ var quotes = [
     {
         quote: 'The person with all the answers you need is you. Just trust yourself',
         author: 'Sandra Whiles'
+    },
+    
+    {
+        quote: 'Don\'t get caught on a runaway Shetland pony',
+        author: 'John Ennis'
     }
 ];
 
